@@ -1,1 +1,23 @@
-
+{
+  "pytania":[
+    {
+      "tresc": "Stolica Polski to",
+      "odp": "Krakow",
+      "odp": "Warszawa",
+      "odp": "Gniezno",
+      "poprawna" 2
+    },
+    {
+      "tresc": "Byla Stolca Polski to",
+      "odp": "Krakow",
+      "odp": "Warszawa",
+      "odp": "Gniezno",
+      "poprawna" 1
+    },
+       {
+      "tresc": "Nad jakim morzem lezy Polska",
+      "odp": "Srudziemne",
+      "odp": "Czerwone",
+      "odp": "Baltyk",
+      "poprawna" 3
+    },
